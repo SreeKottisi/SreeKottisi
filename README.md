@@ -30,6 +30,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreelathakottisi/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:devopsnow9@gmail.com)  
-[![GitHub](https://img.shields.io/github/followers/sreekottisi?label=Follow&style=social)](https://github.com/sreelathakottisi)  
+[![GitHub](https://img.shields.io/github/followers/sreekottisi?label=Follow&style=social)](https://github.com/sreekottisi)  
 
 🚀 **Let's build something amazing together!**  
