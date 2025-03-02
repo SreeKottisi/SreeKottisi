@@ -26,6 +26,13 @@
 - 🔍 Improving **observability and monitoring** with **Datadog, ELK, and CloudWatch**  
 - 📖 Contributing to **open-source projects** and sharing knowledge  
 
+## 📝 My Articles on Medium  
+
+- 📖 [Optimizing API Security with OAuth and JWT](https://medium.com/@your-medium-username/api-security-oauth-jwt-best-practices)  
+- 📖 [Building Scalable CI/CD Pipelines for API Deployments](https://medium.com/@your-medium-username/cicd-pipelines-api-deployments)  
+- 📖 [Enhancing Observability with Datadog & ELK](https://medium.com/@your-medium-username/observability-datadog-elk)  
+- 📖 [MuleSoft API Management Best Practices](https://medium.com/@your-medium-username/mulesoft-api-management)  
+
 ## 📬 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreelathakottisi/)  
