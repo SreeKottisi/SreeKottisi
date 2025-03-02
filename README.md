@@ -33,6 +33,29 @@
 - 📖 [Enhancing Observability with Datadog & ELK](https://medium.com/@your-medium-username/observability-datadog-elk)  
 - 📖 [MuleSoft API Management Best Practices](https://medium.com/@your-medium-username/mulesoft-api-management)  
 
+## 📊 GitHub Stats  
+
+![Sreelatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekottisi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekottisi&layout=compact&theme=radical)  
+
+## 📌 Featured Repositories  
+
+### 🔹 [API Management DevPortal](https://github.com/sreelathakottisi/api-devportal)  
+📌 **Description:** A developer portal for API Management, featuring API catalogs, documentation, support, and search functionality. Built using **GitHub Pages, Bootstrap, and Jekyll**.  
+
+### 🔹 [Azure APIM Policy Templates](https://github.com/sreelathakottisi/azure-apim-policy-templates)  
+📌 **Description:** A collection of ready-to-use **Azure API Management (APIM) policy templates** covering JWT validation, rate limiting, caching, and logging.  
+
+### 🔹 [MuleSoft API Security Best Practices](https://github.com/sreelathakottisi/mulesoft-api-security)  
+📌 **Description:** A repository containing security best practices for **MuleSoft APIs**, including OAuth2, JWT authentication, and API firewall configurations.  
+
+### 🔹 [CI/CD for API Deployments](https://github.com/sreelathakottisi/api-cicd-pipelines)  
+📌 **Description:** **CI/CD automation for API deployments** using **GitHub Actions, Jenkins, Terraform, and Azure DevOps**. Includes scripts for deploying APIs securely.  
+
+### 🔹 [GraphQL API with AWS AppSync](https://github.com/sreelathakottisi/graphql-aws-appsync)  
+📌 **Description:** A proof-of-concept **GraphQL API using AWS AppSync**, integrating **DynamoDB, Lambda, and Cognito** for authentication.  
+
+
 ## 📬 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreelathakottisi/)  
